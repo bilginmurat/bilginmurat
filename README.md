@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there! I'm Murat Bilgin 👋
 
-<!--
-**bilginmurat/bilginmurat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💫 About Me
+- 🔭 I'm a passionate Fullstack Developer working on diverse projects
+- 🌱 Currently developing applications with C#
+- 🚀 Always eager to learn new technologies and frameworks
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- **Web Development:** HTML, CSS, JavaScript
+- **Backend:** C#
+- **Frameworks:** ASP.NET Core
+- **Database:** MySQL, MSSQL
+- **Other Tools:** Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bilginmurat&show_icons=true&theme=tokyonight)
+
+## 🌐 Languages
+<a href="https://github.com/bilginmurat" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilginmurat&langs_count=5&layout=compact&theme=tokyonight" alt="Most Used Languages" /></a>
+
+## 📫 How to Reach Me
+- LinkedIn: [@bilginmurat](https://www.linkedin.com/in/bilginmurat)
