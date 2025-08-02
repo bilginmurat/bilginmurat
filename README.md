@@ -1,7 +1,7 @@
 # Hi there! I'm Murat Bilgin 👋
 
 ## 💫 About Me
-- 🔭 I'm a passionate Fullstack Developer working on diverse projects
+- 🔭 I'm a passionate Backend Developer working on diverse projects
 - 🌱 Currently developing applications with C#
 - 🚀 Always eager to learn new technologies and frameworks
 
